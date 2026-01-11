@@ -30,7 +30,7 @@ The full analysis and conclusions are documented in the accompanying PDF report.
 ├── cleaned_gog_dataset.csv      <br>
 ├── data_cleaning.py              <br>
 ├── analysis.py                  <br>
-└── Python_harjoitustyön_raportti_Noora_Nevalainen.pdf                    <br>
+└── report.pdf                    <br>
 
 ## Data Pipeline
 ### 1. Data Cleaning (data_cleaning.py)
